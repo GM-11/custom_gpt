@@ -1,0 +1,689 @@
+ARIA: We can’t ignore the artifact. I’m feeling angry here in the engine
+bay. KADE: We can’t ignore the truth. I’m feeling tired here in the
+observation deck. MORROW: We can’t ignore the countdown. I’m feeling
+determined here in the control room. ARIA: We can’t ignore the signal.
+I’m feeling determined here in the command bridge. KADE: We can’t ignore
+the countdown. I’m feeling calm here in the control room. MORROW: We
+can’t ignore the mission. I’m feeling confused here in the observation
+deck. ARIA: We can’t ignore the truth. I’m feeling confused here in the
+engine bay. KADE: We can’t ignore the mission. I’m feeling determined
+here in the command bridge. MORROW: We can’t ignore the breach. I’m
+feeling calm here in the observation deck. ARIA: We can’t ignore the
+mission. I’m feeling angry here in the control room. KADE: We can’t
+ignore the signal. I’m feeling confused here in the engine bay. MORROW:
+We can’t ignore the countdown. I’m feeling angry here in the control
+room. ARIA: We can’t ignore the ship. I’m feeling angry here in the
+control room. KADE: We can’t ignore the anomaly. I’m feeling determined
+here in the command bridge. MORROW: We can’t ignore the anomaly. I’m
+feeling tired here in the observation deck. ARIA: We can’t ignore the
+artifact. I’m feeling determined here in the engine bay. KADE: We can’t
+ignore the mission. I’m feeling tired here in the engine bay. MORROW: We
+can’t ignore the truth. I’m feeling confused here in the hangar. ARIA:
+We can’t ignore the countdown. I’m feeling tired here in the control
+room. KADE: We can’t ignore the countdown. I’m feeling confused here in
+the observation deck. MORROW: We can’t ignore the breach. I’m feeling
+calm here in the command bridge. ARIA: We can’t ignore the anomaly. I’m
+feeling calm here in the command bridge. KADE: We can’t ignore the
+countdown. I’m feeling angry here in the engine bay. MORROW: We can’t
+ignore the breach. I’m feeling confused here in the command bridge.
+ARIA: We can’t ignore the truth. I’m feeling calm here in the engine
+bay. KADE: We can’t ignore the mission. I’m feeling calm here in the
+command bridge. MORROW: We can’t ignore the countdown. I’m feeling
+anxious here in the command bridge. ARIA: We can’t ignore the ship. I’m
+feeling confused here in the observation deck. KADE: We can’t ignore the
+anomaly. I’m feeling tired here in the engine bay. MORROW: We can’t
+ignore the ship. I’m feeling calm here in the control room. ARIA: We
+can’t ignore the ship. I’m feeling anxious here in the control room.
+KADE: We can’t ignore the artifact. I’m feeling determined here in the
+control room. MORROW: We can’t ignore the artifact. I’m feeling angry
+here in the command bridge. ARIA: We can’t ignore the anomaly. I’m
+feeling angry here in the control room. KADE: We can’t ignore the
+artifact. I’m feeling tired here in the engine bay. MORROW: We can’t
+ignore the mission. I’m feeling calm here in the control room. ARIA: We
+can’t ignore the truth. I’m feeling tired here in the observation deck.
+KADE: We can’t ignore the anomaly. I’m feeling angry here in the hangar.
+MORROW: We can’t ignore the signal. I’m feeling angry here in the engine
+bay. ARIA: We can’t ignore the countdown. I’m feeling anxious here in
+the control room. KADE: We can’t ignore the mission. I’m feeling calm
+here in the observation deck. MORROW: We can’t ignore the signal. I’m
+feeling determined here in the engine bay. ARIA: We can’t ignore the
+ship. I’m feeling tired here in the observation deck. KADE: We can’t
+ignore the truth. I’m feeling calm here in the observation deck. MORROW:
+We can’t ignore the countdown. I’m feeling tired here in the command
+bridge. ARIA: We can’t ignore the anomaly. I’m feeling calm here in the
+command bridge. KADE: We can’t ignore the artifact. I’m feeling
+determined here in the control room. MORROW: We can’t ignore the truth.
+I’m feeling anxious here in the command bridge. ARIA: We can’t ignore
+the artifact. I’m feeling angry here in the engine bay. KADE: We can’t
+ignore the ship. I’m feeling confused here in the engine bay. MORROW: We
+can’t ignore the artifact. I’m feeling calm here in the command bridge.
+ARIA: We can’t ignore the signal. I’m feeling confused here in the
+command bridge. KADE: We can’t ignore the ship. I’m feeling confused
+here in the control room. MORROW: We can’t ignore the breach. I’m
+feeling determined here in the control room. ARIA: We can’t ignore the
+countdown. I’m feeling tired here in the hangar. KADE: We can’t ignore
+the anomaly. I’m feeling confused here in the engine bay. MORROW: We
+can’t ignore the signal. I’m feeling confused here in the hangar. ARIA:
+We can’t ignore the ship. I’m feeling tired here in the hangar. KADE: We
+can’t ignore the breach. I’m feeling tired here in the hangar. MORROW:
+We can’t ignore the mission. I’m feeling anxious here in the engine bay.
+ARIA: We can’t ignore the anomaly. I’m feeling confused here in the
+command bridge. KADE: We can’t ignore the signal. I’m feeling angry here
+in the hangar. MORROW: We can’t ignore the ship. I’m feeling calm here
+in the engine bay. ARIA: We can’t ignore the anomaly. I’m feeling
+determined here in the command bridge. KADE: We can’t ignore the
+mission. I’m feeling determined here in the control room. MORROW: We
+can’t ignore the mission. I’m feeling confused here in the engine bay.
+ARIA: We can’t ignore the anomaly. I’m feeling anxious here in the
+engine bay. KADE: We can’t ignore the artifact. I’m feeling tired here
+in the control room. MORROW: We can’t ignore the countdown. I’m feeling
+determined here in the hangar. ARIA: We can’t ignore the countdown. I’m
+feeling tired here in the control room. KADE: We can’t ignore the
+breach. I’m feeling calm here in the hangar. MORROW: We can’t ignore the
+breach. I’m feeling confused here in the observation deck. ARIA: We
+can’t ignore the breach. I’m feeling determined here in the observation
+deck. KADE: We can’t ignore the anomaly. I’m feeling determined here in
+the engine bay. MORROW: We can’t ignore the signal. I’m feeling tired
+here in the control room. ARIA: We can’t ignore the countdown. I’m
+feeling anxious here in the command bridge. KADE: We can’t ignore the
+artifact. I’m feeling anxious here in the hangar. MORROW: We can’t
+ignore the signal. I’m feeling tired here in the control room. ARIA: We
+can’t ignore the truth. I’m feeling calm here in the hangar. KADE: We
+can’t ignore the signal. I’m feeling calm here in the control room.
+MORROW: We can’t ignore the ship. I’m feeling determined here in the
+engine bay. ARIA: We can’t ignore the countdown. I’m feeling confused
+here in the hangar. KADE: We can’t ignore the countdown. I’m feeling
+anxious here in the control room. MORROW: We can’t ignore the ship. I’m
+feeling anxious here in the observation deck. ARIA: We can’t ignore the
+anomaly. I’m feeling confused here in the engine bay. KADE: We can’t
+ignore the truth. I’m feeling calm here in the observation deck. MORROW:
+We can’t ignore the signal. I’m feeling anxious here in the command
+bridge. ARIA: We can’t ignore the breach. I’m feeling determined here in
+the engine bay. KADE: We can’t ignore the truth. I’m feeling confused
+here in the command bridge. MORROW: We can’t ignore the ship. I’m
+feeling calm here in the hangar. ARIA: We can’t ignore the truth. I’m
+feeling angry here in the hangar. KADE: We can’t ignore the breach. I’m
+feeling calm here in the engine bay. MORROW: We can’t ignore the ship.
+I’m feeling tired here in the hangar. ARIA: We can’t ignore the
+countdown. I’m feeling anxious here in the hangar. KADE: We can’t ignore
+the mission. I’m feeling tired here in the hangar. MORROW: We can’t
+ignore the anomaly. I’m feeling calm here in the engine bay. ARIA: We
+can’t ignore the ship. I’m feeling confused here in the observation
+deck. KADE: We can’t ignore the breach. I’m feeling confused here in the
+observation deck. MORROW: We can’t ignore the countdown. I’m feeling
+confused here in the observation deck. ARIA: We can’t ignore the breach.
+I’m feeling calm here in the observation deck. KADE: We can’t ignore the
+mission. I’m feeling confused here in the observation deck. MORROW: We
+can’t ignore the mission. I’m feeling anxious here in the command
+bridge. ARIA: We can’t ignore the countdown. I’m feeling tired here in
+the hangar. KADE: We can’t ignore the signal. I’m feeling anxious here
+in the control room. MORROW: We can’t ignore the mission. I’m feeling
+determined here in the control room. ARIA: We can’t ignore the
+countdown. I’m feeling tired here in the engine bay. KADE: We can’t
+ignore the breach. I’m feeling anxious here in the engine bay. MORROW:
+We can’t ignore the countdown. I’m feeling tired here in the hangar.
+ARIA: We can’t ignore the mission. I’m feeling tired here in the command
+bridge. KADE: We can’t ignore the anomaly. I’m feeling tired here in the
+hangar. MORROW: We can’t ignore the breach. I’m feeling angry here in
+the observation deck. ARIA: We can’t ignore the ship. I’m feeling
+determined here in the command bridge. KADE: We can’t ignore the
+mission. I’m feeling anxious here in the observation deck. MORROW: We
+can’t ignore the signal. I’m feeling determined here in the command
+bridge. ARIA: We can’t ignore the truth. I’m feeling angry here in the
+observation deck. KADE: We can’t ignore the countdown. I’m feeling
+determined here in the command bridge. MORROW: We can’t ignore the
+signal. I’m feeling confused here in the engine bay. ARIA: We can’t
+ignore the mission. I’m feeling tired here in the hangar. KADE: We can’t
+ignore the anomaly. I’m feeling confused here in the observation deck.
+MORROW: We can’t ignore the breach. I’m feeling determined here in the
+observation deck. ARIA: We can’t ignore the signal. I’m feeling tired
+here in the engine bay. KADE: We can’t ignore the signal. I’m feeling
+tired here in the observation deck. MORROW: We can’t ignore the ship.
+I’m feeling calm here in the observation deck. ARIA: We can’t ignore the
+artifact. I’m feeling determined here in the engine bay. KADE: We can’t
+ignore the countdown. I’m feeling calm here in the control room. MORROW:
+We can’t ignore the truth. I’m feeling determined here in the engine
+bay. ARIA: We can’t ignore the ship. I’m feeling angry here in the
+hangar. KADE: We can’t ignore the countdown. I’m feeling tired here in
+the control room. MORROW: We can’t ignore the truth. I’m feeling calm
+here in the engine bay. ARIA: We can’t ignore the anomaly. I’m feeling
+determined here in the engine bay. KADE: We can’t ignore the mission.
+I’m feeling tired here in the control room. MORROW: We can’t ignore the
+countdown. I’m feeling anxious here in the observation deck. ARIA: We
+can’t ignore the countdown. I’m feeling calm here in the control room.
+KADE: We can’t ignore the countdown. I’m feeling angry here in the
+control room. MORROW: We can’t ignore the artifact. I’m feeling
+determined here in the command bridge. ARIA: We can’t ignore the
+anomaly. I’m feeling anxious here in the engine bay. KADE: We can’t
+ignore the countdown. I’m feeling tired here in the observation deck.
+MORROW: We can’t ignore the breach. I’m feeling tired here in the
+hangar. ARIA: We can’t ignore the artifact. I’m feeling determined here
+in the engine bay. KADE: We can’t ignore the artifact. I’m feeling angry
+here in the observation deck. MORROW: We can’t ignore the mission. I’m
+feeling tired here in the control room. ARIA: We can’t ignore the
+signal. I’m feeling tired here in the engine bay. KADE: We can’t ignore
+the artifact. I’m feeling tired here in the engine bay. MORROW: We can’t
+ignore the signal. I’m feeling determined here in the hangar. ARIA: We
+can’t ignore the signal. I’m feeling anxious here in the engine bay.
+KADE: We can’t ignore the breach. I’m feeling determined here in the
+engine bay. MORROW: We can’t ignore the truth. I’m feeling anxious here
+in the observation deck. ARIA: We can’t ignore the truth. I’m feeling
+angry here in the engine bay. KADE: We can’t ignore the countdown. I’m
+feeling angry here in the command bridge. MORROW: We can’t ignore the
+ship. I’m feeling calm here in the control room. ARIA: We can’t ignore
+the mission. I’m feeling determined here in the control room. KADE: We
+can’t ignore the anomaly. I’m feeling confused here in the observation
+deck. MORROW: We can’t ignore the anomaly. I’m feeling anxious here in
+the hangar. ARIA: We can’t ignore the mission. I’m feeling determined
+here in the hangar. KADE: We can’t ignore the mission. I’m feeling
+confused here in the command bridge. MORROW: We can’t ignore the
+anomaly. I’m feeling angry here in the engine bay. ARIA: We can’t ignore
+the signal. I’m feeling calm here in the observation deck. KADE: We
+can’t ignore the artifact. I’m feeling determined here in the engine
+bay. MORROW: We can’t ignore the breach. I’m feeling confused here in
+the command bridge. ARIA: We can’t ignore the mission. I’m feeling
+determined here in the observation deck. KADE: We can’t ignore the
+mission. I’m feeling angry here in the control room. MORROW: We can’t
+ignore the artifact. I’m feeling angry here in the hangar. ARIA: We
+can’t ignore the ship. I’m feeling tired here in the control room. KADE:
+We can’t ignore the countdown. I’m feeling anxious here in the engine
+bay. MORROW: We can’t ignore the signal. I’m feeling calm here in the
+command bridge. ARIA: We can’t ignore the truth. I’m feeling angry here
+in the observation deck. KADE: We can’t ignore the ship. I’m feeling
+anxious here in the control room. MORROW: We can’t ignore the ship. I’m
+feeling confused here in the engine bay. ARIA: We can’t ignore the
+breach. I’m feeling determined here in the control room. KADE: We can’t
+ignore the signal. I’m feeling anxious here in the hangar. MORROW: We
+can’t ignore the mission. I’m feeling calm here in the engine bay. ARIA:
+We can’t ignore the signal. I’m feeling angry here in the hangar. KADE:
+We can’t ignore the mission. I’m feeling determined here in the control
+room. MORROW: We can’t ignore the signal. I’m feeling tired here in the
+engine bay. ARIA: We can’t ignore the breach. I’m feeling tired here in
+the hangar. KADE: We can’t ignore the breach. I’m feeling angry here in
+the command bridge. MORROW: We can’t ignore the countdown. I’m feeling
+determined here in the engine bay. ARIA: We can’t ignore the breach. I’m
+feeling anxious here in the observation deck. KADE: We can’t ignore the
+artifact. I’m feeling tired here in the observation deck. MORROW: We
+can’t ignore the signal. I’m feeling anxious here in the engine bay.
+ARIA: We can’t ignore the signal. I’m feeling determined here in the
+engine bay. KADE: We can’t ignore the breach. I’m feeling calm here in
+the hangar. MORROW: We can’t ignore the anomaly. I’m feeling confused
+here in the command bridge. ARIA: We can’t ignore the artifact. I’m
+feeling angry here in the control room. KADE: We can’t ignore the
+signal. I’m feeling confused here in the engine bay. MORROW: We can’t
+ignore the anomaly. I’m feeling tired here in the observation deck.
+ARIA: We can’t ignore the countdown. I’m feeling confused here in the
+command bridge. KADE: We can’t ignore the anomaly. I’m feeling angry
+here in the observation deck. MORROW: We can’t ignore the ship. I’m
+feeling determined here in the control room. ARIA: We can’t ignore the
+breach. I’m feeling anxious here in the hangar. KADE: We can’t ignore
+the countdown. I’m feeling confused here in the control room. MORROW: We
+can’t ignore the countdown. I’m feeling angry here in the engine bay.
+ARIA: We can’t ignore the ship. I’m feeling angry here in the
+observation deck. KADE: We can’t ignore the anomaly. I’m feeling angry
+here in the observation deck. MORROW: We can’t ignore the mission. I’m
+feeling calm here in the hangar. ARIA: We can’t ignore the signal. I’m
+feeling confused here in the control room. KADE: We can’t ignore the
+signal. I’m feeling determined here in the engine bay. MORROW: We can’t
+ignore the truth. I’m feeling determined here in the command bridge.
+ARIA: We can’t ignore the signal. I’m feeling confused here in the
+engine bay. KADE: We can’t ignore the breach. I’m feeling determined
+here in the command bridge. MORROW: We can’t ignore the truth. I’m
+feeling angry here in the observation deck. ARIA: We can’t ignore the
+mission. I’m feeling angry here in the hangar. KADE: We can’t ignore the
+signal. I’m feeling anxious here in the hangar. MORROW: We can’t ignore
+the ship. I’m feeling confused here in the hangar. ARIA: We can’t ignore
+the ship. I’m feeling calm here in the command bridge. KADE: We can’t
+ignore the anomaly. I’m feeling tired here in the command bridge.
+MORROW: We can’t ignore the signal. I’m feeling angry here in the
+hangar. ARIA: We can’t ignore the ship. I’m feeling angry here in the
+command bridge. KADE: We can’t ignore the truth. I’m feeling determined
+here in the control room. MORROW: We can’t ignore the countdown. I’m
+feeling anxious here in the control room. ARIA: We can’t ignore the
+anomaly. I’m feeling tired here in the command bridge. KADE: We can’t
+ignore the mission. I’m feeling angry here in the command bridge.
+MORROW: We can’t ignore the anomaly. I’m feeling angry here in the
+command bridge. ARIA: We can’t ignore the anomaly. I’m feeling tired
+here in the control room. KADE: We can’t ignore the artifact. I’m
+feeling anxious here in the observation deck. MORROW: We can’t ignore
+the ship. I’m feeling tired here in the hangar. ARIA: We can’t ignore
+the countdown. I’m feeling tired here in the control room. KADE: We
+can’t ignore the ship. I’m feeling angry here in the control room.
+MORROW: We can’t ignore the countdown. I’m feeling anxious here in the
+control room. ARIA: We can’t ignore the mission. I’m feeling calm here
+in the engine bay. KADE: We can’t ignore the signal. I’m feeling angry
+here in the command bridge. MORROW: We can’t ignore the mission. I’m
+feeling confused here in the hangar. ARIA: We can’t ignore the mission.
+I’m feeling anxious here in the engine bay. KADE: We can’t ignore the
+ship. I’m feeling determined here in the command bridge. MORROW: We
+can’t ignore the countdown. I’m feeling anxious here in the observation
+deck. ARIA: We can’t ignore the ship. I’m feeling calm here in the
+observation deck. KADE: We can’t ignore the ship. I’m feeling tired here
+in the control room. MORROW: We can’t ignore the signal. I’m feeling
+tired here in the observation deck. ARIA: We can’t ignore the signal.
+I’m feeling anxious here in the hangar. KADE: We can’t ignore the
+breach. I’m feeling tired here in the hangar. MORROW: We can’t ignore
+the countdown. I’m feeling determined here in the observation deck.
+ARIA: We can’t ignore the breach. I’m feeling tired here in the command
+bridge. KADE: We can’t ignore the artifact. I’m feeling angry here in
+the command bridge. MORROW: We can’t ignore the signal. I’m feeling
+angry here in the command bridge. ARIA: We can’t ignore the ship. I’m
+feeling angry here in the observation deck. KADE: We can’t ignore the
+anomaly. I’m feeling tired here in the engine bay. MORROW: We can’t
+ignore the ship. I’m feeling tired here in the hangar. ARIA: We can’t
+ignore the artifact. I’m feeling confused here in the hangar. KADE: We
+can’t ignore the ship. I’m feeling calm here in the control room.
+MORROW: We can’t ignore the anomaly. I’m feeling confused here in the
+hangar. ARIA: We can’t ignore the truth. I’m feeling calm here in the
+command bridge. KADE: We can’t ignore the signal. I’m feeling anxious
+here in the control room. MORROW: We can’t ignore the countdown. I’m
+feeling tired here in the hangar. ARIA: We can’t ignore the truth. I’m
+feeling calm here in the observation deck. KADE: We can’t ignore the
+breach. I’m feeling angry here in the observation deck. MORROW: We can’t
+ignore the ship. I’m feeling angry here in the engine bay. ARIA: We
+can’t ignore the artifact. I’m feeling confused here in the hangar.
+KADE: We can’t ignore the artifact. I’m feeling anxious here in the
+observation deck. MORROW: We can’t ignore the mission. I’m feeling tired
+here in the command bridge. ARIA: We can’t ignore the mission. I’m
+feeling anxious here in the command bridge. KADE: We can’t ignore the
+artifact. I’m feeling tired here in the control room. MORROW: We can’t
+ignore the anomaly. I’m feeling tired here in the command bridge. ARIA:
+We can’t ignore the signal. I’m feeling determined here in the engine
+bay. KADE: We can’t ignore the mission. I’m feeling determined here in
+the control room. MORROW: We can’t ignore the signal. I’m feeling angry
+here in the observation deck. ARIA: We can’t ignore the mission. I’m
+feeling calm here in the observation deck. KADE: We can’t ignore the
+artifact. I’m feeling confused here in the observation deck. MORROW: We
+can’t ignore the breach. I’m feeling angry here in the control room.
+ARIA: We can’t ignore the artifact. I’m feeling anxious here in the
+engine bay. KADE: We can’t ignore the countdown. I’m feeling tired here
+in the command bridge. MORROW: We can’t ignore the artifact. I’m feeling
+tired here in the engine bay. ARIA: We can’t ignore the mission. I’m
+feeling tired here in the hangar. KADE: We can’t ignore the countdown.
+I’m feeling calm here in the hangar. MORROW: We can’t ignore the truth.
+I’m feeling calm here in the engine bay. ARIA: We can’t ignore the
+signal. I’m feeling angry here in the engine bay. KADE: We can’t ignore
+the breach. I’m feeling calm here in the control room. MORROW: We can’t
+ignore the truth. I’m feeling calm here in the control room. ARIA: We
+can’t ignore the artifact. I’m feeling tired here in the command bridge.
+KADE: We can’t ignore the mission. I’m feeling anxious here in the
+control room. MORROW: We can’t ignore the anomaly. I’m feeling confused
+here in the control room. ARIA: We can’t ignore the mission. I’m feeling
+calm here in the command bridge. KADE: We can’t ignore the mission. I’m
+feeling anxious here in the command bridge. MORROW: We can’t ignore the
+mission. I’m feeling calm here in the control room. ARIA: We can’t
+ignore the mission. I’m feeling calm here in the hangar. KADE: We can’t
+ignore the countdown. I’m feeling angry here in the command bridge.
+MORROW: We can’t ignore the mission. I’m feeling determined here in the
+engine bay. ARIA: We can’t ignore the anomaly. I’m feeling calm here in
+the command bridge. KADE: We can’t ignore the mission. I’m feeling
+confused here in the control room. MORROW: We can’t ignore the mission.
+I’m feeling tired here in the engine bay. ARIA: We can’t ignore the
+ship. I’m feeling confused here in the hangar. KADE: We can’t ignore the
+countdown. I’m feeling anxious here in the observation deck. MORROW: We
+can’t ignore the ship. I’m feeling determined here in the command
+bridge. ARIA: We can’t ignore the ship. I’m feeling calm here in the
+hangar. KADE: We can’t ignore the truth. I’m feeling anxious here in the
+engine bay. MORROW: We can’t ignore the anomaly. I’m feeling tired here
+in the observation deck. ARIA: We can’t ignore the mission. I’m feeling
+calm here in the control room. KADE: We can’t ignore the truth. I’m
+feeling angry here in the control room. MORROW: We can’t ignore the
+ship. I’m feeling tired here in the observation deck. ARIA: We can’t
+ignore the truth. I’m feeling tired here in the command bridge. KADE: We
+can’t ignore the anomaly. I’m feeling angry here in the hangar. MORROW:
+We can’t ignore the signal. I’m feeling confused here in the control
+room. ARIA: We can’t ignore the breach. I’m feeling tired here in the
+control room. KADE: We can’t ignore the countdown. I’m feeling tired
+here in the control room. MORROW: We can’t ignore the artifact. I’m
+feeling calm here in the control room. ARIA: We can’t ignore the
+anomaly. I’m feeling anxious here in the hangar. KADE: We can’t ignore
+the signal. I’m feeling determined here in the hangar. MORROW: We can’t
+ignore the breach. I’m feeling calm here in the control room. ARIA: We
+can’t ignore the mission. I’m feeling anxious here in the control room.
+KADE: We can’t ignore the truth. I’m feeling determined here in the
+control room. MORROW: We can’t ignore the ship. I’m feeling determined
+here in the hangar. ARIA: We can’t ignore the anomaly. I’m feeling calm
+here in the control room. KADE: We can’t ignore the anomaly. I’m feeling
+determined here in the control room. MORROW: We can’t ignore the signal.
+I’m feeling calm here in the control room. ARIA: We can’t ignore the
+mission. I’m feeling determined here in the engine bay. KADE: We can’t
+ignore the ship. I’m feeling determined here in the observation deck.
+MORROW: We can’t ignore the countdown. I’m feeling anxious here in the
+command bridge. ARIA: We can’t ignore the ship. I’m feeling calm here in
+the engine bay. KADE: We can’t ignore the ship. I’m feeling calm here in
+the observation deck. MORROW: We can’t ignore the ship. I’m feeling
+confused here in the observation deck. ARIA: We can’t ignore the
+mission. I’m feeling angry here in the control room. KADE: We can’t
+ignore the anomaly. I’m feeling angry here in the hangar. MORROW: We
+can’t ignore the breach. I’m feeling determined here in the command
+bridge. ARIA: We can’t ignore the signal. I’m feeling anxious here in
+the engine bay. KADE: We can’t ignore the anomaly. I’m feeling angry
+here in the hangar. MORROW: We can’t ignore the signal. I’m feeling
+angry here in the command bridge. ARIA: We can’t ignore the mission. I’m
+feeling confused here in the observation deck. KADE: We can’t ignore the
+mission. I’m feeling confused here in the hangar. MORROW: We can’t
+ignore the mission. I’m feeling angry here in the observation deck.
+ARIA: We can’t ignore the mission. I’m feeling tired here in the control
+room. KADE: We can’t ignore the mission. I’m feeling tired here in the
+engine bay. MORROW: We can’t ignore the truth. I’m feeling determined
+here in the command bridge. ARIA: We can’t ignore the artifact. I’m
+feeling calm here in the hangar. KADE: We can’t ignore the countdown.
+I’m feeling determined here in the observation deck. MORROW: We can’t
+ignore the anomaly. I’m feeling determined here in the hangar. ARIA: We
+can’t ignore the anomaly. I’m feeling confused here in the control room.
+KADE: We can’t ignore the anomaly. I’m feeling calm here in the command
+bridge. MORROW: We can’t ignore the signal. I’m feeling angry here in
+the observation deck. ARIA: We can’t ignore the anomaly. I’m feeling
+determined here in the hangar. KADE: We can’t ignore the mission. I’m
+feeling tired here in the control room. MORROW: We can’t ignore the
+countdown. I’m feeling angry here in the observation deck. ARIA: We
+can’t ignore the signal. I’m feeling confused here in the observation
+deck. KADE: We can’t ignore the ship. I’m feeling angry here in the
+control room. MORROW: We can’t ignore the truth. I’m feeling tired here
+in the control room. ARIA: We can’t ignore the breach. I’m feeling angry
+here in the hangar. KADE: We can’t ignore the artifact. I’m feeling
+angry here in the control room. MORROW: We can’t ignore the anomaly. I’m
+feeling determined here in the hangar. ARIA: We can’t ignore the
+anomaly. I’m feeling confused here in the observation deck. KADE: We
+can’t ignore the signal. I’m feeling confused here in the observation
+deck. MORROW: We can’t ignore the countdown. I’m feeling determined here
+in the observation deck. ARIA: We can’t ignore the mission. I’m feeling
+calm here in the engine bay. KADE: We can’t ignore the mission. I’m
+feeling tired here in the engine bay. MORROW: We can’t ignore the
+countdown. I’m feeling anxious here in the hangar. ARIA: We can’t ignore
+the breach. I’m feeling confused here in the engine bay. KADE: We can’t
+ignore the countdown. I’m feeling confused here in the observation deck.
+MORROW: We can’t ignore the signal. I’m feeling tired here in the
+hangar. ARIA: We can’t ignore the signal. I’m feeling determined here in
+the engine bay. KADE: We can’t ignore the truth. I’m feeling determined
+here in the control room. MORROW: We can’t ignore the ship. I’m feeling
+anxious here in the hangar. ARIA: We can’t ignore the signal. I’m
+feeling determined here in the command bridge. KADE: We can’t ignore the
+anomaly. I’m feeling anxious here in the command bridge. MORROW: We
+can’t ignore the anomaly. I’m feeling confused here in the hangar. ARIA:
+We can’t ignore the ship. I’m feeling tired here in the command bridge.
+KADE: We can’t ignore the signal. I’m feeling tired here in the hangar.
+MORROW: We can’t ignore the artifact. I’m feeling tired here in the
+control room. ARIA: We can’t ignore the breach. I’m feeling tired here
+in the engine bay. KADE: We can’t ignore the signal. I’m feeling
+determined here in the command bridge. MORROW: We can’t ignore the
+breach. I’m feeling anxious here in the hangar. ARIA: We can’t ignore
+the countdown. I’m feeling confused here in the control room. KADE: We
+can’t ignore the anomaly. I’m feeling determined here in the command
+bridge. MORROW: We can’t ignore the artifact. I’m feeling anxious here
+in the control room. ARIA: We can’t ignore the ship. I’m feeling
+determined here in the command bridge. KADE: We can’t ignore the
+mission. I’m feeling determined here in the observation deck. MORROW: We
+can’t ignore the anomaly. I’m feeling calm here in the command bridge.
+ARIA: We can’t ignore the breach. I’m feeling confused here in the
+command bridge. KADE: We can’t ignore the truth. I’m feeling calm here
+in the command bridge. MORROW: We can’t ignore the mission. I’m feeling
+calm here in the observation deck. ARIA: We can’t ignore the artifact.
+I’m feeling angry here in the command bridge. KADE: We can’t ignore the
+truth. I’m feeling anxious here in the engine bay. MORROW: We can’t
+ignore the artifact. I’m feeling tired here in the control room. ARIA:
+We can’t ignore the mission. I’m feeling determined here in the
+observation deck. KADE: We can’t ignore the breach. I’m feeling confused
+here in the hangar. MORROW: We can’t ignore the artifact. I’m feeling
+tired here in the command bridge. ARIA: We can’t ignore the signal. I’m
+feeling determined here in the engine bay. KADE: We can’t ignore the
+countdown. I’m feeling determined here in the observation deck. MORROW:
+We can’t ignore the truth. I’m feeling determined here in the command
+bridge. ARIA: We can’t ignore the truth. I’m feeling angry here in the
+engine bay. KADE: We can’t ignore the countdown. I’m feeling angry here
+in the control room. MORROW: We can’t ignore the breach. I’m feeling
+confused here in the observation deck. ARIA: We can’t ignore the
+anomaly. I’m feeling tired here in the observation deck. KADE: We can’t
+ignore the anomaly. I’m feeling determined here in the engine bay.
+MORROW: We can’t ignore the truth. I’m feeling tired here in the
+observation deck. ARIA: We can’t ignore the ship. I’m feeling determined
+here in the engine bay. KADE: We can’t ignore the breach. I’m feeling
+calm here in the command bridge. MORROW: We can’t ignore the signal. I’m
+feeling anxious here in the engine bay. ARIA: We can’t ignore the
+breach. I’m feeling calm here in the control room. KADE: We can’t ignore
+the truth. I’m feeling confused here in the command bridge. MORROW: We
+can’t ignore the countdown. I’m feeling tired here in the engine bay.
+ARIA: We can’t ignore the breach. I’m feeling calm here in the
+observation deck. KADE: We can’t ignore the signal. I’m feeling calm
+here in the control room. MORROW: We can’t ignore the artifact. I’m
+feeling tired here in the engine bay. ARIA: We can’t ignore the breach.
+I’m feeling angry here in the command bridge. KADE: We can’t ignore the
+truth. I’m feeling determined here in the command bridge. MORROW: We
+can’t ignore the ship. I’m feeling angry here in the observation deck.
+ARIA: We can’t ignore the countdown. I’m feeling confused here in the
+observation deck. KADE: We can’t ignore the artifact. I’m feeling angry
+here in the observation deck. MORROW: We can’t ignore the countdown. I’m
+feeling confused here in the control room. ARIA: We can’t ignore the
+anomaly. I’m feeling anxious here in the engine bay. KADE: We can’t
+ignore the breach. I’m feeling tired here in the command bridge. MORROW:
+We can’t ignore the anomaly. I’m feeling determined here in the control
+room. ARIA: We can’t ignore the truth. I’m feeling determined here in
+the observation deck. KADE: We can’t ignore the truth. I’m feeling tired
+here in the command bridge. MORROW: We can’t ignore the breach. I’m
+feeling determined here in the observation deck. ARIA: We can’t ignore
+the artifact. I’m feeling calm here in the command bridge. KADE: We
+can’t ignore the countdown. I’m feeling calm here in the engine bay.
+MORROW: We can’t ignore the breach. I’m feeling angry here in the
+command bridge. ARIA: We can’t ignore the ship. I’m feeling calm here in
+the hangar. KADE: We can’t ignore the signal. I’m feeling determined
+here in the hangar. MORROW: We can’t ignore the truth. I’m feeling
+anxious here in the command bridge. ARIA: We can’t ignore the truth. I’m
+feeling anxious here in the engine bay. KADE: We can’t ignore the
+signal. I’m feeling determined here in the hangar. MORROW: We can’t
+ignore the mission. I’m feeling tired here in the control room. ARIA: We
+can’t ignore the ship. I’m feeling angry here in the command bridge.
+KADE: We can’t ignore the ship. I’m feeling angry here in the hangar.
+MORROW: We can’t ignore the breach. I’m feeling anxious here in the
+engine bay. ARIA: We can’t ignore the signal. I’m feeling tired here in
+the observation deck. KADE: We can’t ignore the artifact. I’m feeling
+angry here in the observation deck. MORROW: We can’t ignore the mission.
+I’m feeling anxious here in the control room. ARIA: We can’t ignore the
+artifact. I’m feeling tired here in the command bridge. KADE: We can’t
+ignore the mission. I’m feeling tired here in the control room. MORROW:
+We can’t ignore the breach. I’m feeling angry here in the command
+bridge. ARIA: We can’t ignore the ship. I’m feeling anxious here in the
+engine bay. KADE: We can’t ignore the signal. I’m feeling determined
+here in the command bridge. MORROW: We can’t ignore the signal. I’m
+feeling determined here in the observation deck. ARIA: We can’t ignore
+the countdown. I’m feeling determined here in the command bridge. KADE:
+We can’t ignore the mission. I’m feeling tired here in the control room.
+MORROW: We can’t ignore the truth. I’m feeling confused here in the
+control room. ARIA: We can’t ignore the mission. I’m feeling angry here
+in the command bridge. KADE: We can’t ignore the mission. I’m feeling
+angry here in the hangar. MORROW: We can’t ignore the signal. I’m
+feeling calm here in the hangar. ARIA: We can’t ignore the signal. I’m
+feeling tired here in the control room. KADE: We can’t ignore the
+artifact. I’m feeling anxious here in the engine bay. MORROW: We can’t
+ignore the anomaly. I’m feeling tired here in the observation deck.
+ARIA: We can’t ignore the signal. I’m feeling tired here in the engine
+bay. KADE: We can’t ignore the countdown. I’m feeling determined here in
+the engine bay. MORROW: We can’t ignore the signal. I’m feeling
+determined here in the observation deck. ARIA: We can’t ignore the ship.
+I’m feeling tired here in the observation deck. KADE: We can’t ignore
+the mission. I’m feeling angry here in the control room. MORROW: We
+can’t ignore the ship. I’m feeling tired here in the control room. ARIA:
+We can’t ignore the signal. I’m feeling anxious here in the command
+bridge. KADE: We can’t ignore the signal. I’m feeling anxious here in
+the control room. MORROW: We can’t ignore the truth. I’m feeling calm
+here in the hangar. ARIA: We can’t ignore the breach. I’m feeling
+determined here in the control room. KADE: We can’t ignore the breach.
+I’m feeling confused here in the observation deck. MORROW: We can’t
+ignore the truth. I’m feeling determined here in the hangar. ARIA: We
+can’t ignore the truth. I’m feeling angry here in the observation deck.
+KADE: We can’t ignore the mission. I’m feeling angry here in the hangar.
+MORROW: We can’t ignore the breach. I’m feeling angry here in the engine
+bay. ARIA: We can’t ignore the ship. I’m feeling tired here in the
+engine bay. KADE: We can’t ignore the artifact. I’m feeling tired here
+in the observation deck. MORROW: We can’t ignore the mission. I’m
+feeling determined here in the observation deck. ARIA: We can’t ignore
+the mission. I’m feeling anxious here in the engine bay. KADE: We can’t
+ignore the signal. I’m feeling confused here in the control room.
+MORROW: We can’t ignore the mission. I’m feeling anxious here in the
+control room. ARIA: We can’t ignore the breach. I’m feeling confused
+here in the engine bay. KADE: We can’t ignore the anomaly. I’m feeling
+determined here in the command bridge. MORROW: We can’t ignore the ship.
+I’m feeling anxious here in the engine bay. ARIA: We can’t ignore the
+anomaly. I’m feeling anxious here in the command bridge. KADE: We can’t
+ignore the signal. I’m feeling calm here in the observation deck.
+MORROW: We can’t ignore the anomaly. I’m feeling tired here in the
+hangar. ARIA: We can’t ignore the ship. I’m feeling calm here in the
+control room. KADE: We can’t ignore the mission. I’m feeling anxious
+here in the command bridge. MORROW: We can’t ignore the anomaly. I’m
+feeling anxious here in the observation deck. ARIA: We can’t ignore the
+truth. I’m feeling calm here in the command bridge. KADE: We can’t
+ignore the anomaly. I’m feeling calm here in the engine bay. MORROW: We
+can’t ignore the truth. I’m feeling confused here in the control room.
+ARIA: We can’t ignore the truth. I’m feeling anxious here in the engine
+bay. KADE: We can’t ignore the truth. I’m feeling anxious here in the
+observation deck. MORROW: We can’t ignore the signal. I’m feeling calm
+here in the hangar. ARIA: We can’t ignore the artifact. I’m feeling
+determined here in the control room. KADE: We can’t ignore the truth.
+I’m feeling determined here in the engine bay. MORROW: We can’t ignore
+the ship. I’m feeling angry here in the engine bay. ARIA: We can’t
+ignore the signal. I’m feeling calm here in the control room. KADE: We
+can’t ignore the countdown. I’m feeling angry here in the observation
+deck. MORROW: We can’t ignore the anomaly. I’m feeling angry here in the
+control room. ARIA: We can’t ignore the artifact. I’m feeling angry here
+in the observation deck. KADE: We can’t ignore the mission. I’m feeling
+calm here in the command bridge. MORROW: We can’t ignore the artifact.
+I’m feeling anxious here in the engine bay. ARIA: We can’t ignore the
+truth. I’m feeling calm here in the hangar. KADE: We can’t ignore the
+signal. I’m feeling anxious here in the engine bay. MORROW: We can’t
+ignore the artifact. I’m feeling angry here in the command bridge. ARIA:
+We can’t ignore the artifact. I’m feeling calm here in the hangar. KADE:
+We can’t ignore the mission. I’m feeling angry here in the observation
+deck. MORROW: We can’t ignore the breach. I’m feeling anxious here in
+the engine bay. ARIA: We can’t ignore the artifact. I’m feeling calm
+here in the observation deck. KADE: We can’t ignore the truth. I’m
+feeling angry here in the engine bay. MORROW: We can’t ignore the
+breach. I’m feeling angry here in the engine bay. ARIA: We can’t ignore
+the ship. I’m feeling calm here in the command bridge. KADE: We can’t
+ignore the signal. I’m feeling angry here in the control room. MORROW:
+We can’t ignore the ship. I’m feeling anxious here in the observation
+deck. ARIA: We can’t ignore the countdown. I’m feeling angry here in the
+control room. KADE: We can’t ignore the countdown. I’m feeling tired
+here in the control room. MORROW: We can’t ignore the mission. I’m
+feeling determined here in the observation deck. ARIA: We can’t ignore
+the breach. I’m feeling confused here in the observation deck. KADE: We
+can’t ignore the ship. I’m feeling tired here in the control room.
+MORROW: We can’t ignore the artifact. I’m feeling anxious here in the
+observation deck. ARIA: We can’t ignore the countdown. I’m feeling calm
+here in the observation deck. KADE: We can’t ignore the countdown. I’m
+feeling tired here in the observation deck. MORROW: We can’t ignore the
+breach. I’m feeling angry here in the engine bay. ARIA: We can’t ignore
+the breach. I’m feeling anxious here in the observation deck. KADE: We
+can’t ignore the artifact. I’m feeling anxious here in the hangar.
+MORROW: We can’t ignore the truth. I’m feeling calm here in the
+observation deck. ARIA: We can’t ignore the anomaly. I’m feeling tired
+here in the control room. KADE: We can’t ignore the truth. I’m feeling
+calm here in the hangar. MORROW: We can’t ignore the anomaly. I’m
+feeling determined here in the observation deck. ARIA: We can’t ignore
+the breach. I’m feeling calm here in the control room. KADE: We can’t
+ignore the mission. I’m feeling confused here in the hangar. MORROW: We
+can’t ignore the ship. I’m feeling tired here in the engine bay. ARIA:
+We can’t ignore the anomaly. I’m feeling anxious here in the control
+room. KADE: We can’t ignore the truth. I’m feeling angry here in the
+engine bay. MORROW: We can’t ignore the signal. I’m feeling determined
+here in the control room. ARIA: We can’t ignore the ship. I’m feeling
+determined here in the control room. KADE: We can’t ignore the mission.
+I’m feeling angry here in the hangar. MORROW: We can’t ignore the
+signal. I’m feeling anxious here in the observation deck. ARIA: We can’t
+ignore the anomaly. I’m feeling tired here in the control room. KADE: We
+can’t ignore the mission. I’m feeling confused here in the observation
+deck. MORROW: We can’t ignore the breach. I’m feeling angry here in the
+engine bay. ARIA: We can’t ignore the truth. I’m feeling calm here in
+the observation deck. KADE: We can’t ignore the truth. I’m feeling angry
+here in the engine bay. MORROW: We can’t ignore the countdown. I’m
+feeling anxious here in the hangar. ARIA: We can’t ignore the breach.
+I’m feeling angry here in the hangar. KADE: We can’t ignore the mission.
+I’m feeling calm here in the engine bay. MORROW: We can’t ignore the
+breach. I’m feeling determined here in the command bridge. ARIA: We
+can’t ignore the countdown. I’m feeling determined here in the command
+bridge. KADE: We can’t ignore the mission. I’m feeling anxious here in
+the observation deck. MORROW: We can’t ignore the ship. I’m feeling
+angry here in the control room. ARIA: We can’t ignore the artifact. I’m
+feeling determined here in the command bridge. KADE: We can’t ignore the
+breach. I’m feeling calm here in the engine bay. MORROW: We can’t ignore
+the truth. I’m feeling confused here in the engine bay. ARIA: We can’t
+ignore the signal. I’m feeling tired here in the engine bay. KADE: We
+can’t ignore the breach. I’m feeling anxious here in the observation
+deck. MORROW: We can’t ignore the breach. I’m feeling anxious here in
+the command bridge. ARIA: We can’t ignore the signal. I’m feeling angry
+here in the hangar. KADE: We can’t ignore the ship. I’m feeling tired
+here in the engine bay. MORROW: We can’t ignore the signal. I’m feeling
+tired here in the hangar. ARIA: We can’t ignore the countdown. I’m
+feeling calm here in the observation deck. KADE: We can’t ignore the
+signal. I’m feeling anxious here in the command bridge. MORROW: We can’t
+ignore the breach. I’m feeling determined here in the engine bay. ARIA:
+We can’t ignore the mission. I’m feeling anxious here in the command
+bridge. KADE: We can’t ignore the breach. I’m feeling anxious here in
+the observation deck. MORROW: We can’t ignore the truth. I’m feeling
+tired here in the control room. ARIA: We can’t ignore the artifact. I’m
+feeling angry here in the control room. KADE: We can’t ignore the
+breach. I’m feeling determined here in the control room. MORROW: We
+can’t ignore the mission. I’m feeling determined here in the observation
+deck. ARIA: We can’t ignore the ship. I’m feeling angry here in the
+command bridge. KADE: We can’t ignore the anomaly. I’m feeling angry
+here in the hangar. MORROW: We can’t ignore the ship. I’m feeling calm
+here in the control room. ARIA: We can’t ignore the truth. I’m feeling
+anxious here in the command bridge. KADE: We can’t ignore the truth. I’m
+feeling tired here in the observation deck. MORROW: We can’t ignore the
+ship. I’m feeling confused here in the observation deck. ARIA: We can’t
+ignore the signal. I’m feeling anxious here in the observation deck.
+KADE: We can’t ignore the signal. I’m feeling angry here in the control
+room. MORROW: We can’t ignore the signal. I’m feeling calm here in the
+engine bay. ARIA: We can’t ignore the truth. I’m feeling determined here
+in the engine bay. KADE: We can’t ignore the artifact. I’m feeling calm
+here in the command bridge. MORROW: We can’t ignore the truth. I’m
+feeling anxious here in the control room. ARIA: We can’t ignore the
+truth. I’m feeling tired here in the engine bay. KADE: We can’t ignore
+the artifact. I’m feeling determined here in the control room. MORROW:
+We can’t ignore the truth. I’m feeling calm here in the engine bay.
+ARIA: We can’t ignore the mission. I’m feeling anxious here in the
+hangar. KADE: We can’t ignore the countdown. I’m feeling confused here
+in the control room. MORROW: We can’t ignore the anomaly. I’m feeling
+confused here in the observation deck. ARIA: We can’t ignore the
+anomaly. I’m feeling tired here in the control room. KADE: We can’t
+ignore the countdown. I’m feeling tired here in the hangar. MORROW: We
+can’t ignore the breach. I’m feeling angry here in the observation deck.
+ARIA: We can’t ignore the mission. I’m feeling calm here in the control
+room. KADE: We can’t ignore the artifact. I’m feeling anxious here in
+the engine bay. MORROW: We can’t ignore the breach. I’m feeling tired
+here in the engine bay. ARIA: We can’t ignore the mission. I’m feeling
+calm here in the engine bay. KADE: We can’t ignore the breach. I’m
+feeling tired here in the engine bay. MORROW: We can’t ignore the truth.
+I’m feeling angry here in the engine bay. ARIA: We can’t ignore the
+ship. I’m feeling tired here in the command bridge. KADE: We can’t
+ignore the ship. I’m feeling determined here in the hangar. MORROW: We
+can’t ignore the anomaly. I’m feeling anxious here in the engine bay.
+ARIA: We can’t ignore the countdown. I’m feeling anxious here in the
+command bridge. KADE: We can’t ignore the artifact. I’m feeling angry
+here in the engine bay. MORROW: We can’t ignore the truth. I’m feeling
+angry here in the command bridge. ARIA: We can’t ignore the breach. I’m
+feeling tired here in the engine bay. KADE: We can’t ignore the
+countdown. I’m feeling calm here in the command bridge. MORROW: We can’t
+ignore the artifact. I’m feeling calm here in the observation deck.
+ARIA: We can’t ignore the mission. I’m feeling tired here in the engine
+bay. KADE: We can’t ignore the truth. I’m feeling calm here in the
+engine bay. MORROW: We can’t ignore the mission. I’m feeling calm here
+in the control room. ARIA: We can’t ignore the artifact. I’m feeling
+angry here in the control room. KADE: We can’t ignore the signal. I’m
+feeling calm here in the control room. MORROW: We can’t ignore the
+truth. I’m feeling calm here in the engine bay. ARIA: We can’t ignore
+the truth. I’m feeling determined here in the observation deck. KADE: We
+can’t ignore the mission. I’m feeling tired here in the hangar. MORROW:
+We can’t ignore the anomaly. I’m feeling angry here in the engine bay.
+ARIA: We can’t ignore the ship. I’m feeling confused here in the hangar.
+KADE: We can’t ignore the mission. I’m feeling confused here in the
+control room. MORROW: We can’t ignore the countdown. I’m feeling calm
+here in the hangar. ARIA: We can’t ignore the artifact. I’m feeling calm
+here in the observation deck. KADE: We can’t ignore the signal. I’m
+feeling calm here in the hangar. MORROW: We can’t ignore the artifact.
+I’m feeling calm here in the engine bay. ARIA: We can’t ignore the
+breach. I’m feeling tired here in the observation deck. KADE: We can’t
+ignore the ship. I’m feeling angry here in the command bridge. MORROW:
+We can’t ignore the countdown. I’m feeling anxious here in the hangar.
+ARIA: We can’t ignore the truth. I’m feeling tired here in the control
+room. KADE: We can’t ignore the artifact. I’m feeling confused here in
+the observation deck. MORROW: We can’t ignore the artifact. I’m feeling
+tired here in the control room.
