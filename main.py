@@ -21,7 +21,7 @@ train_data = data[:n]
 val_data = data[n:]
 
 # %%
-seq_len = 8
+seq_len = 10
 inputs = []
 targets = []
 
@@ -29,6 +29,8 @@ targets = []
 encoded_sentences = []
 for s in sentences:
     encoded_sentences.append(encoder.encode(s))
+
+encoded_sentences
 
 # %%
 for ids in encoded_sentences:
@@ -38,7 +40,7 @@ for ids in encoded_sentences:
 
         inputs.append(list(window))
         targets.append(target)
-
+inputs
 # %%
 for i, t in zip(inputs, targets):
     print(i, encoder.decode(i), " -> ", encoder.decode([t]))
@@ -99,10 +101,11 @@ train_model(
     loader=loader,
     loss_fn=nn.CrossEntropyLoss(),
     optimizer=torch.optim.Adam(model.parameters(), lr=0.01),
+    epochs=20,
 )
 
 # %%
-input_ids = inputs[22]
+input_ids = inputs[32]
 human_readable_tokens = [encoder.decode([id]) for id in input_ids]
 model.eval()
 x_example_eval = torch.tensor([input_ids], dtype=torch.long)
@@ -133,3 +136,8 @@ def generate_next_words(input_str: str, max_tokens: int):
         input_tokenized.append(next_id)
 
     return encoder.decode(input_tokenized)
+
+
+# %%
+output = generate_next_words("The spoon fell and", 1)
+print(output)
