@@ -1,143 +1,118 @@
 # %%
+import math
+
 import tiktoken
 import torch
 import torch.nn as nn
-from torch.utils.data import DataLoader, Dataset
+from torch.utils.data import DataLoader, Dataset, random_split
 
 from custom_dataset import CustomDataset
-
-# %%
-sentences = open("transcripts.txt", "r").read().split("\n")
+from decoder import Decoder
+from model_training import train_model
 
 # %%
 encoder = tiktoken.encoding_for_model("gpt-2")
-data = torch.tensor(encoder.encode("".join(sentences)), dtype=torch.long)
+vocab_size = encoder.n_vocab
+print(vocab_size)
+# encoder = CustomTokenizer()
+
+# %%
+text = open("transcripts.txt", "r", encoding="utf-8").read()
+# encoder.build_vocab(text)
+token_ids = encoder.encode(text)
+data = torch.tensor(token_ids, dtype=torch.long)  # shape: (N,)
+vocab_size = encoder.n_vocab
 print(data.shape, data.dtype)
-print(data[:100])
 
 # %%
-n = int(0.9 * len(data))
-train_data = data[:n]
-val_data = data[n:]
+seq_len = 64
+dataset = CustomDataset(data, seq_len=seq_len)
 
 # %%
-seq_len = 10
-inputs = []
-targets = []
+train_size = int(0.9 * len(dataset))
+val_size = len(dataset) - train_size
+train_ds, val_ds = random_split(dataset, [train_size, val_size])
 
 # %%
-encoded_sentences = []
-for s in sentences:
-    encoded_sentences.append(encoder.encode(s))
+train_loader = DataLoader(train_ds, batch_size=32, shuffle=True, num_workers=0)
+val_loader = DataLoader(val_ds, batch_size=32, shuffle=False, num_workers=0)
 
-encoded_sentences
-
+xb, yb = next(iter(train_loader))
+print("xb:", xb.shape, "yb:", yb.shape)  # (B, T) and (B, T)
 # %%
-for ids in encoded_sentences:
-    for i in range(len(ids) - seq_len):
-        window = ids[i : i + seq_len]
-        target = ids[i + seq_len]
-
-        inputs.append(list(window))
-        targets.append(target)
-inputs
-# %%
-for i, t in zip(inputs, targets):
-    print(i, encoder.decode(i), " -> ", encoder.decode([t]))
-
-# %%
-dataset = CustomDataset(inputs, targets)
-
-loader = DataLoader(dataset, batch_size=4, shuffle=True, num_workers=0)
-
-# %%
-sent = sentences[0]
-tokens = encoder.encode(sent)
-print(tokens)
-# %%
-
-print(len(data))
-print(max(tokens))
-print(encoder.n_vocab)
-
-# %%
-embedding_dim = 64
-torch.manual_seed(42)
-embed = nn.Embedding(encoder.n_vocab, embedding_dim)
-x = embed(torch.tensor(tokens).unsqueeze(0))
-x
-from manual_self_attention import ManualSelfAttention
-
-attention_layer = ManualSelfAttention(embedding_dim)
-
-out, attn = attention_layer(x)
-print(out[0].shape)
-print(attn[0].shape)
-# %%
-for i, w in enumerate(tokens):
-    row = ["{:.2f}".format(a) for a in attn[0, i].detach().cpu().numpy()]
-    print(f"{encoder.decode([w]):>8} attends to -> {row}")
-
-# %%
-from self_attenstion_with_position import SelfAttnWithPositionalEmbedding
-
-model = SelfAttnWithPositionalEmbedding(
-    vocab_size=encoder.n_vocab, seq_len=seq_len, embedding_dim=embedding_dim
+model = Decoder(
+    vocab_size=vocab_size,
+    embedding_dim=256,
+    nhead=8,
+    num_layers=3,
+    dim_feedforward=1024,
+    max_len=512,
+    dropout=0.1,
 )
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-model
-# %%
-model.eval()
-x_example = torch.tensor([inputs[0]], dtype=torch.long)
-print(x_example.shape)
-with torch.no_grad():
-    logits, attn_weights = model(x_example)
+# AdamW = Adam + correct weight decay behavior
+optimizer = torch.optim.AdamW(model.parameters(), lr=3e-4, weight_decay=0.01)
+loss_fn = nn.CrossEntropyLoss()
 
-# %%
-from model_training import train_model
+# ---- warmup + cosine decay scheduler (step every batch) ----
+epochs = 10
+steps_per_epoch = len(train_loader)
+total_steps = epochs * steps_per_epoch
+warmup_steps = int(0.05 * total_steps)
+
+
+def lr_lambda(step: int) -> float:
+    if step < warmup_steps:
+        return (step + 1) / max(1, warmup_steps)
+    progress = (step - warmup_steps) / max(1, total_steps - warmup_steps)
+    return 0.5 * (1.0 + math.cos(math.pi * progress))
+
+
+scheduler = torch.optim.lr_scheduler.LambdaLR(optimizer, lr_lambda=lr_lambda)
 
 train_model(
     model=model,
-    loader=loader,
-    loss_fn=nn.CrossEntropyLoss(),
-    optimizer=torch.optim.Adam(model.parameters(), lr=0.01),
-    epochs=20,
+    train_loader=train_loader,
+    val_loader=val_loader,
+    loss_fn=loss_fn,
+    optimizer=optimizer,
+    vocab_size=vocab_size,
+    epochs=epochs,
+    device=device,
+    grad_clip_norm=1.0,
+    scheduler=scheduler,
+    val_max_batches=None,
 )
-
 # %%
-input_ids = inputs[32]
-human_readable_tokens = [encoder.decode([id]) for id in input_ids]
-model.eval()
-x_example_eval = torch.tensor([input_ids], dtype=torch.long)
-
+text = "I love you more than life\n"
+max_tokens = 500
+temperature = 1.5
+top_k = 20
+print(text, end="")
 with torch.no_grad():
-    logits, attn_weights_eval = model(x_example_eval)
-
-from utils import plot_attention
-
-plot_attention(attn_weights_eval, human_readable_tokens)
-
-
-# %%
-def generate_next_words(input_str: str, max_tokens: int):
     model.eval()
 
-    input_tokenized = encoder.encode(input_str)
+    token_ids = encoder.encode(text)
 
     for _ in range(max_tokens):
-        input_ids = torch.tensor([input_tokenized], dtype=torch.long)
+        ctx = token_ids[-seq_len:]
+        x = torch.tensor([ctx], dtype=torch.long)
 
-        with torch.no_grad():
-            logits, _ = model(input_ids)
-            next_id = logits.argmax(dim=-1).item()
+        logits = model(x)
+        next_logits = logits[0, -1, :]
 
-        next_word = encoder.decode([next_id])
-        print(next_word)
-        input_tokenized.append(next_id)
+        next_logits = next_logits / temperature
 
-    return encoder.decode(input_tokenized)
+        if top_k is not None:
+            k = min(top_k, next_logits.size(-1))
+            top_vals, top_idx = torch.topk(next_logits, k=k)
+            probs = torch.softmax(top_vals, dim=-1)
+            next_id = int(top_idx[torch.multinomial(probs, num_samples=1)].item())
+        else:
+            probs = torch.softmax(next_logits, dim=-1)
+            next_id = int(torch.multinomial(probs, num_samples=1).item())
+        print(encoder.decode([next_id]), end="")
+        token_ids.append(next_id)
 
-
-# %%
-output = generate_next_words("The spoon fell and", 1)
-print(output)
+    print(encoder.decode(token_ids))
