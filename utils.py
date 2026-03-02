@@ -22,3 +22,22 @@ def make_causal_mask(sz: int):
 
 def create_padding_mask(seq: torch.Tensor, pad_idx: int) -> torch.Tensor:
     return seq == pad_idx
+
+
+def top_k_logits(logits: torch.Tensor, k: int) -> torch.Tensor:
+    if k is None or k <= 0:
+        return logits
+
+    k = min(k, logits.size(-1))
+    values, _ = torch.topk(logits, k, dim=-1)
+    kth_value = values[..., -1, None]
+    return torch.where(
+        logits < kth_value, torch.full_like(logits, float("-inf")), logits
+    )
+
+
+def collate_fn(batch):
+    xs, ys = zip(*batch)
+    xs = torch.nn.utils.rnn.pad_sequence(list(xs), batch_first=True, padding_value=0)
+    ys = torch.nn.utils.rnn.pad_sequence(list(ys), batch_first=True, padding_value=0)
+    return xs, ys
