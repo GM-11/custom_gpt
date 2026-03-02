@@ -1,18 +1,30 @@
 import torch
+from tiktoken import Encoding
 from torch.utils.data import Dataset
 
 
 class CustomDataset(Dataset):
-    def __init__(self, token_stream: torch.Tensor, seq_len: int) -> None:
-        if token_stream.dtype != torch.long or token_stream.dim() != 1:
-            raise ValueError("token_stream must be a 1D torch.long tensor of token ids")
-        self.data = token_stream
+    def __init__(self, text: str, tokenizer: Encoding, seq_len: int):
+        self.samples = []
+        conversations = text.split("<|eos|>")
+        for conv in conversations:
+            conv = conv.strip()
+            if len(conv) > 0:
+                tokens = tokenizer.encode(conv + "<|eos|>")
+                self.samples.append(torch.tensor(tokens, dtype=torch.long))
+
         self.seq_len = seq_len
 
-    def __len__(self) -> int:
-        return len(self.data) - self.seq_len - 1
+    def __len__(self):
+        return len(self.samples)
 
-    def __getitem__(self, idx: int):
-        x = self.data[idx : idx + self.seq_len]  # (T,)
-        y = self.data[idx + 1 : idx + self.seq_len + 1]  # (T,)
+    def __getitem__(self, idx):
+        tokens = self.samples[idx]
+
+        if len(tokens) > self.seq_len:
+            tokens = tokens[: self.seq_len]
+
+        x = tokens[:-1]
+        y = tokens[1:]
+
         return x, y
