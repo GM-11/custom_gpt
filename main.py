@@ -9,15 +9,16 @@ from torch.utils.data import DataLoader, Dataset, random_split
 from custom_dataset import CustomDataset
 from decoder import Decoder
 from model_training import train_model
+from utils import collate_fn, top_k_logits
 
 # %%
-encoder = tiktoken.encoding_for_model("gpt-2")
+encoder = tiktoken.encoding_for_model("gpt2")
 vocab_size = encoder.n_vocab
 print(vocab_size)
 # encoder = CustomTokenizer()
 
 # %%
-text = open("transcripts.txt", "r", encoding="utf-8").read()
+text = open("ic_engine.txt", "r", encoding="utf-8").read()
 # encoder.build_vocab(text)
 token_ids = encoder.encode(text)
 data = torch.tensor(token_ids, dtype=torch.long)  # shape: (N,)
@@ -25,8 +26,8 @@ vocab_size = encoder.n_vocab
 print(data.shape, data.dtype)
 
 # %%
-seq_len = 64
-dataset = CustomDataset(data, seq_len=seq_len)
+seq_len = 256
+dataset = CustomDataset(text, seq_len=seq_len, tokenizer=encoder)
 
 # %%
 train_size = int(0.9 * len(dataset))
@@ -34,7 +35,9 @@ val_size = len(dataset) - train_size
 train_ds, val_ds = random_split(dataset, [train_size, val_size])
 
 # %%
-train_loader = DataLoader(train_ds, batch_size=32, shuffle=True, num_workers=0)
+train_loader = DataLoader(
+    train_ds, batch_size=32, shuffle=True, num_workers=0, collate_fn=collate_fn
+)
 val_loader = DataLoader(val_ds, batch_size=32, shuffle=False, num_workers=0)
 
 xb, yb = next(iter(train_loader))
@@ -85,34 +88,35 @@ train_model(
     val_max_batches=None,
 )
 # %%
-text = "I love you more than life\n"
-max_tokens = 500
-temperature = 1.5
-top_k = 20
-print(text, end="")
+text = """<|user|>
+what does internal combustion engine do?
+<|end|>"""
+max_tokens = 150
+temperature = 0.7
+top_k = 40
+
+prompt_ids = encoder.encode(text)
+generated = prompt_ids.copy()
+
 with torch.no_grad():
     model.eval()
-
-    token_ids = encoder.encode(text)
+    model.to(device)
 
     for _ in range(max_tokens):
-        ctx = token_ids[-seq_len:]
-        x = torch.tensor([ctx], dtype=torch.long)
+        ctx = generated[-seq_len:]
+        x = torch.tensor([ctx], dtype=torch.long).to(device)
 
         logits = model(x)
         next_logits = logits[0, -1, :]
 
         next_logits = next_logits / temperature
+        next_logits = top_k_logits(next_logits, top_k)  # <- actually apply top-k
 
-        if top_k is not None:
-            k = min(top_k, next_logits.size(-1))
-            top_vals, top_idx = torch.topk(next_logits, k=k)
-            probs = torch.softmax(top_vals, dim=-1)
-            next_id = int(top_idx[torch.multinomial(probs, num_samples=1)].item())
-        else:
-            probs = torch.softmax(next_logits, dim=-1)
-            next_id = int(torch.multinomial(probs, num_samples=1).item())
-        print(encoder.decode([next_id]), end="")
-        token_ids.append(next_id)
+        probs = torch.softmax(next_logits, dim=-1)
+        next_id = int(torch.multinomial(probs, num_samples=1).item())
+        generated.append(next_id)
 
-    print(encoder.decode(token_ids))
+        if encoder.decode([next_id]) == "<|end|>":
+            break
+
+print(encoder.decode(generated))
